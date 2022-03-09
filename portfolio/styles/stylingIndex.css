@@ -1,0 +1,76 @@
+body{
+    margin:0
+}
+h1{
+    margin: 0;
+    padding-top: 10px;
+}
+header{
+    color:white;
+    text-align:center;
+}
+.container{
+    background-color: #3DC4AE;
+    
+    padding: 10px 0;
+    height: 80px;
+}
+nav{
+    background-color: black;
+    text-align: left;
+    padding-left: 10px;
+}
+ul{
+    list-style: none;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding:7px 0 ;
+}
+li{
+    display: inline;
+    margin-right:20px;
+}
+main{
+    display: flex;
+    height:600px;
+}
+#myPhoto{
+    width: 500px;
+    height: 150px;
+}
+.travelPhotos{
+    width: 700px;
+    height: 150px;
+}
+
+#introSection{
+    padding-right:100px;
+    margin:0;
+    padding-left: 20px;
+    background-color:#AEAEAE;
+}
+
+#articleSection{
+    padding-left: 20px;
+}
+footer div{
+    text-align: center;
+    background-color: #F2F2F2;
+    margin-bottom: 0;
+    height:47px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+footer div h3{
+    margin: 0;
+}
+.imageDivs{
+    height:50px;
+    background-color:#929795;
+    margin-bottom:10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
